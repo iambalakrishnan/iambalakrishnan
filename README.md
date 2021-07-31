@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambalakrishnan
 - 👀 I’m interested in Machine Learing
-- 🌱 I’m currently learning Machine Learing using Sci-kit Learn, Tensorflow 
+- 🌱 I’m currently learning Machine Learing using Sci-kit Learn, Tensorflow 2.0
 - 💞️ I’m looking to collaborate...??
 - 📫 How to reach me ... well in Twitter@imbalakrishnann
 
