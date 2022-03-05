@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iambalakrishnan
 - 👀 I’m interested in Machine Learing | Deep Learning
 - 🌱 I’m currently learning Deep Learing using Tensorflow 2.x
-- 💞️ I’m looking to collaborate in deep Learning and computer vision projects..
+- 💞️ I’m looking to collaborate in Deep Learning and computer vision projects..
 - 📫 How to reach me ... well in Twitter@imbalakrishnann
 
 <!---
