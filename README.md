@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iambalakrishnan
 - 👀 I’m interested in Machine Learing | Deep Learning
-- 🌱 I’m currently learning Deep Learing using Tensorflow 2.x
+- 🌱 I’m currently upskilling myself in the field of AI/ML/DL
 - 💞️ I’m looking to collaborate in Machine Learning and Deeep Learning Projects...
 - 📫 Connect me in LinkedIn@imbalakrishnan
 <!---
