@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1>Hi 👋! My name is Balakrishnan and I'm a Machine Learning Engineer from Bengaluru, India.</h1>
 
-🔭I'm really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.<br>👯 I have five years of experience in Data Engineering with Capgemini India.<br>💬 My Personal motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.<br>⚡ Fun fact
+🔭I'm really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.<br>👯 I have five years of experience in Data Engineering with Capgemini India.<br>💬 My Personal motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.<br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
