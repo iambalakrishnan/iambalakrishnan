@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm really passionate about Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing.<br>👯 I have five years of experience in Data Engineering with Capgemini India.<br>💬 My Personal motive is to give my full potential to build AI-based solutions that solve high-impact problems for people around the globe and simplify everyday living.<br>⚡ Fun fact: I uses tabs over spaces.
+🔭 I possess a deep enthusiasm for the fields of Artificial Intelligence, Deep Learning, Machine Learning, and Natural Language Processing<br>👯 I bring a wealth of knowledge and practical expertise from my rewarding five-year tenure in Data Engineering at Capgemini India.<br>💬 My personal mission is to channel my full potential into crafting AI-based solutions that address significant challenges for individuals worldwide, ultimately enhancing everyday life and simplifying complex tasks for everyone.<br>⚡ Fun fact: I use tabs over spaces.
 
 
 ## 🌐 Socials:
